@@ -1,0 +1,10 @@
+variable;Units
+Energy;e+12_MJ
+GHG;e+09_kgCO2-eq
+LO;e+09_m2
+WD;e+09_m3
+SR;yr
+HA;e+09_hour
+EMR;MJh
+GHGMR;KgCO2eq h
+WMR;m3 h
